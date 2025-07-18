@@ -50,7 +50,7 @@ Name - Abhay pratap
 Email
 
 
-LinkedIn
+[LinkedIn]([url](https://www.linkedin.com/in/ap-saini-5aa231302/))
 
 
 GitHub
