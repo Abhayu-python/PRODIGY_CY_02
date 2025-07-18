@@ -1,2 +1,8 @@
-# PRODIGY_CY_02
-Tool for check password strength!
+# PASSWORD STRENGTH CHECKER 🔐🔒
+project overview 📌
+Here its my task number 2 for cyber security internship at Prodigy InfoTech.
+
+#
+
+
+
