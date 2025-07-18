@@ -46,14 +46,10 @@ Name - Abhay pratap
 (task 2 for internship at ProdigyInfoTech)
 
 
-# CONTACT:
-Email
+# ☎️ CONTACT:
 
 
-[LinkedIn]([url](https://www.linkedin.com/in/ap-saini-5aa231302/))
-
-
-GitHub
+[LinkedIn](https://www.linkedin.com/in/ap-saini-5aa231302/)
 
 
 
