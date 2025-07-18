@@ -50,6 +50,7 @@ Name - Abhay pratap
 
 
 [LinkedIn](https://www.linkedin.com/in/ap-saini-5aa231302/)
+[Email](pratapabhay8256@gmail.com)
 
 
 
